@@ -1,5 +1,6 @@
 //Comisión 2.
 //Martina Fuhr 119031/9; Julia Ferrari 119028/6.
+//https://youtu.be/Y4c_G1LQfdI
 let juegg = [];
 let boton = [];
 let estado;
